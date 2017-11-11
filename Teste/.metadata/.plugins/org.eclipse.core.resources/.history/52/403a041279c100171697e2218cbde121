@@ -1,0 +1,5 @@
+package br.inatel.dm110.hello.api;
+
+public interface HelloService {
+
+}

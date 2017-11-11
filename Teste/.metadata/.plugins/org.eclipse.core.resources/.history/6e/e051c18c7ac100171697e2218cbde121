@@ -1,0 +1,8 @@
+package br.inatel.dm110.hello.api;
+
+public class Results {
+
+	private String firstName;
+	private String lastName;
+	private String message;
+}

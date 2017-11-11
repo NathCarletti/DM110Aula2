@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.inatel.dm110.HelloServletImpl.HelloServletImpl&apos; to &apos;HelloServiceImpl&apos;&#x0D;&#x0A;- Original project: &apos;dm110-impl&apos;&#x0D;&#x0A;- Original element: &apos;br.inatel.dm110.HelloServletImpl.HelloServletImpl&apos;&#x0D;&#x0A;- Renamed element: &apos;br.inatel.dm110.HelloServletImpl.HelloServiceImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HelloServletImpl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;br.inatel.dm110.HelloServletImpl{HelloServletImpl.java[HelloServletImpl" matchStrategy="1" name="HelloServiceImpl" qualified="false" references="true" similarDeclarations="false" stamp="1509810999738" textual="false" version="1.0"/>
+</session>
